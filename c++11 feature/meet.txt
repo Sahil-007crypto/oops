@@ -1,0 +1,70 @@
+
+
+okay now... we can start ......
+
+good after noon sir,
+yes sir i can explain ....project as well .... practical
+project ...
+oooo okay ... then i design project using css html and 
+php for backend with sql queries...
+and another thing is that i dont use js in code ...
+also ... it is purely maded by me ...
+its not taken from git or any site ....
+
+and its only login page design... 
+i know its too much easy but ... i spend whole 8 days to 
+make this one 
+and i also make the register page for the design 
+but i dont put it in project because of connection 
+problem 
+and my laptops static IP problem ...
+problem is not in connection but it is pc 
+like when ever i try to ececute it my local address changed
+i dont know why ...
+
+but now i know..hoe to resolve that..no inter net connection
+
+
+now about project 
+so project contain 3 html files 3 css style sheet and 1 login
+file .php 
+then
+i make database in php admin
+name as college info 
+with table name info 
+in that table i put username,password ,age and r_no as p.key
+
+now table is ready with some containt i put in like 
+username pikachu
+password 1234 
+age ...
+r no
+
+now the task is login for those who are alredy in dbtablle
+ my login page take 2 parameter 
+username and password 
+so i put a query 
+to take containt form table 
+select * from info where username=$username adn password=$password
+
+and if it take then 
+it will check 2 parameter which take user input 
+username and password 
+so the point is 
+that php can check the password and username are correct or 
+not 
+if they are correct then i put tne nect page locatio
+other wise i put error message 
+and put the first page location 
+
+task complete 
+
+this my project simple login page 
+simplly you just need to login and if your in dbtable 
+then you can visit the final page 
+
+
+
+
+
+
